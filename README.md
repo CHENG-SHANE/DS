@@ -1,2 +1,2 @@
 # DS
-#These programs are some reference answers to the Donghua University data structure experiment
+#These programs are some reference answers to the NDHU data structure experiment
